@@ -1,4 +1,6 @@
-# Python Projects for Beginners
+# Python Mini Projects
+
+Esses projetos exploram conceitos como lógica de programação, estruturas de controle, funções, arquivos, APIs, automação, bibliotecas externas e algoritmos.
 
 ### 🟢 Projetos Iniciantes (Easy)
 
@@ -29,5 +31,3 @@
 19. Mastermind / 4 Color Match
 20. Aim Trainer
 21. Advanced Python Scripting
-
-Esses projetos exploram conceitos como lógica de programação, estruturas de controle, funções, arquivos, APIs, automação, bibliotecas externas e algoritmos.
