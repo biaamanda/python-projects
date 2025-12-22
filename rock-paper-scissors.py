@@ -31,8 +31,10 @@ while True:
     elif user_input == 'scissors' and computer_pick == 'paper':
         print('You win!')
         user_wins += 1
+        
     elif user_input == computer_pick:
         print("It's a tie!")
+        
     else:
         print('You lose!')
         computer_wins += 1    
